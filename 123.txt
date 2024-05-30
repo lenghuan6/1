@@ -8,7 +8,9 @@ TVB+,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53
 经典影视台2,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 Channel[V],http://iptv.028028.xyz:8/udp/239.93.0.157:2194
+翡翠台,https://ali.hlspull.yximgs.com/live/ba7e50d2858e37647983f7273eaabe7d.flv
 星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+明珠台,https://ali.hlspull.yximgs.com/live/384c93464cf2dc19a27dbbdb57140336.flv
 民视第一台,http://45.145.229.220:8080/vcsa/index.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
