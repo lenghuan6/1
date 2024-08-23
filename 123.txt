@@ -33,7 +33,7 @@ Channel[V],http://iptv.028028.xyz:8/udp/239.93.0.157:2194
 //黑龙江移动
 CCTV1综合,http://biaozhun114.com/tv/cctv1.m3u8$流畅
 CCTV1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$黑龙江移动V6
-CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8$官方
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8$官方
 CCTV2财经,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$黑龙江移动V6
 CCTV3综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$黑龙江移动V6
 CCTV4中文国际,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$黑龙江移动V6
