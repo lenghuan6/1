@@ -2,7 +2,7 @@
 
 
 CCTV13新闻,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378#http://biaozhun114.com/tv/cctv13.m3u8
-
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 TVB+,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 经典影视台1,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
 经典影视台2,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
