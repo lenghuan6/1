@@ -1,5 +1,5 @@
 电影频道,#genre#
-邵氏影院，https://openhls-tct.douyucdn2.cn/dyliveflv1/4246519rm8waKEBD_2000.m3u8?txSecret=a6236666706ac11363373196612f5778&txTime=66e9c166&token=h5-douyu-0-4246519-d92302d2f271a8fc481bfef893c21d79&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=394306340
+邵氏影院,https://openhls-tct.douyucdn2.cn/dyliveflv1/4246519rm8waKEBD_2000.m3u8?txSecret=a6236666706ac11363373196612f5778&txTime=66e9c166&token=h5-douyu-0-4246519-d92302d2f271a8fc481bfef893c21d79&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=394306340
 央视频道,#genre#
 CCTV1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
